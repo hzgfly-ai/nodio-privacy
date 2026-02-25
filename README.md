@@ -43,7 +43,7 @@
 </ul>
 
 <h2>7. 联系方式</h2>
-<p>如有疑问，请联系：<a href="mailto:你的邮箱">你的邮箱</a></p>
+<p>如有疑问，请联系：<a href="mailto:你的邮箱">974839578@qq.com</a></p>
 </body>
 </html>
 # nodio-privacy
