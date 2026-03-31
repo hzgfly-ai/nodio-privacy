@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nodio 隐私政策</title>
+<title>Nodium 隐私政策</title>
 <style>
   body { font-family: -apple-system, 'PingFang SC', sans-serif; max-width: 720px; margin: 40px auto; padding: 0 24px; line-height: 1.9; color: #222; }
   h1 { font-size: 22px; margin-bottom: 4px; }
@@ -15,10 +15,10 @@
 </head>
 <body>
 
-<h1>Nodio 隐私政策</h1>
+<h1>Nodium 隐私政策</h1>
 <p class="date">最后更新日期：2026年2月25日</p>
 
-<p>Nodio（以下简称"本应用"）尊重并保护用户的隐私。本政策说明我们如何收集、使用和保护您的信息。</p>
+<p>Nodium（以下简称"本应用"）尊重并保护用户的隐私。本政策说明我们如何收集、使用和保护您的信息。</p>
 
 <h2>1. 笔记数据存储</h2>
 <p>您的笔记数据主要存储在您的设备本地。如您已登录 iCloud，笔记数据会通过 Apple CloudKit 私有数据库同步至您的 iCloud 账户，仅您本人可访问，我们无法读取。</p>
